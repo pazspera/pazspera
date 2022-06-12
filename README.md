@@ -5,9 +5,9 @@ I'm [Paz Spera](https://pazspera.github.io/portfolio/), Frontend Developer and U
 ## Skills and Tools
 
 <p> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" height="45px" title="JavaScript" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45px" height="45px" title="Sass" alt="Sass"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45px" height="45px" title="Bootstrap" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" height="45px" title="JavaScript" alt="JavaScript" style="margin-right: 16px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45px" height="45px" title="Sass" alt="Sass" style="margin-right: 16px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45px" height="45px" title="Bootstrap" alt="Bootstrap" style="margin-right: 16px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45px" height="45px" title="Vue" alt="Vue"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" height="45px" title="HTML5" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45px" height="45px" title="CSS" alt="CSS"/>
