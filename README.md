@@ -1,7 +1,11 @@
 ### Hello World! 👋
 
-I'm [Paz Spera](https://pazspera.github.io/portfolio/), Frontend Developer and UI Designer from Buenos Aires, Argentina. 
+I'm [Paz Spera](https://pazspera.github.io/portfolio/), Frontend Developer and UI Designer from Buenos Aires, Argentina.
 
+## Skills and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
 <!--
 **pazspera/pazspera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
