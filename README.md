@@ -4,10 +4,11 @@ I'm [Paz Spera](https://pazspera.github.io/portfolio/), Frontend Developer and U
 
 ## Skills and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="25px" height="25px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-
+<p> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45px" height="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45px" height="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" height="45px"/>
+</p>
 
 <!--
 **pazspera/pazspera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
