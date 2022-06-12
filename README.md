@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
+
+I'm [Paz Spera](https://pazspera.github.io/portfolio/), Frontend Developer and UI Designer from Buenos Aires, Argentina. 
 
 <!--
 **pazspera/pazspera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
