@@ -1,8 +1,8 @@
 # Hello World! 👋
 
-I'm [Paz Spera](https://portfolio-paz-spera.onrender.com/), Frontend Developer and UX/UI Designer from Buenos Aires, Argentina.
+I'm Paz Spera, Frontend Developer and UX/UI Designer from Buenos Aires, Argentina.
 
-I help companies go from idea to implementation with engaging, optimized digital experiences that convert. 
+I help companies go from idea to implementation with engaging, optimized digital experiences that convert.
 My approach is rooted in constant iteration, ensuring each solution remains relevant, effective, and user-centered.
 
 ## Tech Stack
@@ -27,7 +27,7 @@ My approach is rooted in constant iteration, ensuring each solution remains rele
 You can find me at: 
 
 - 🌐 Portfolio: [www.pazspera.com.ar](https://www.pazspera.com.ar)
-- 🔗 GitHub: [Paz Spera GitHub](https://github.com/pazspera)
-- 💼 LinkedIn: [Paz Spera LinkedIn](https://www.linkedin.com/in/paz-spera/)
+- ​​💻 GitHub: [www.github.com/pazspera](https://github.com/pazspera)
+- 💼 LinkedIn: [www.linkedin.com/in/paz-spera/](https://www.linkedin.com/in/paz-spera/)
 
 I'm open to new projects and opportunities. Feel free to reach out and may the force be with you! 
