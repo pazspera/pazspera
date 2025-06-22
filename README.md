@@ -17,7 +17,7 @@ My approach is rooted in constant iteration, ensuring each solution remains rele
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS" /></a>&nbsp;&nbsp;
     <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" /></a>&nbsp;&nbsp;
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /></a>&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
     <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" alt="Material UI" /></a> &nbsp;&nbsp;
     <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /></a>&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
